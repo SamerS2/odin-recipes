@@ -1,0 +1,10 @@
+
+h1, h2, h3{
+    color: blue;
+    font-weight: bold;
+}
+
+li {
+    color: rgb(37, 167, 160);
+    font-weight: lighter;
+}
